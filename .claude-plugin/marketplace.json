@@ -1,0 +1,16 @@
+{
+  "name": "exec-edge",
+  "owner": {
+    "name": "ExecEdge"
+  },
+  "metadata": {
+    "description": "Leadership skills from ExecEdge PRO"
+  },
+  "plugins": [
+    {
+      "name": "exec-edge",
+      "source": "./plugins/exec-edge",
+      "description": "Leadership skills from ExecEdge PRO"
+    }
+  ]
+}

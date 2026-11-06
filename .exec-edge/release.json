@@ -1,0 +1,18 @@
+{
+  "skills": [
+    {
+      "slug": "commitment-check",
+      "title": "Commitment check",
+      "topic": "Team Management",
+      "exampleAsk": "Help me review the proposed commitments below. Flag anything unclear and ask me about missing details before suggesting changes.",
+      "files": []
+    },
+    {
+      "slug": "team-accountability-review",
+      "title": "Team accountability review",
+      "topic": "Team Management",
+      "exampleAsk": "Help me understand why my team is missing commitments",
+      "files": []
+    }
+  ]
+}

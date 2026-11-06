@@ -1,0 +1,10 @@
+{
+  "name": "exec-edge",
+  "displayName": "ExecEdge",
+  "version": "1.1.0",
+  "description": "Leadership skills from ExecEdge PRO",
+  "author": {
+    "name": "ExecEdge",
+    "url": "https://www.execedge.com/pro"
+  }
+}

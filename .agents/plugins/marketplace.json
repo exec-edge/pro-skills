@@ -1,0 +1,20 @@
+{
+  "name": "exec-edge",
+  "interface": {
+    "displayName": "ExecEdge PRO"
+  },
+  "plugins": [
+    {
+      "name": "exec-edge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/exec-edge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
